@@ -24,12 +24,12 @@ $ git git@github.com:creativehassan/woo-fopay-gateway.git woo-fopay-gateway
 ```
 
 ## Frequently asked questions
-How I can verify FoPay Payments Gateway is Proper working? =
-*  You can enable FoPay Payments Gateway from the settings and than on checkout you can see it available for customers.
-Where can I find more information on FoPay Payments Gateway? =
-*  You can find more information on the <a href="https://doc.fopay.co.uk/ptr-merchant-api/1.0/#actions--transfer--payment-request-link--create">FoPay Payments Gateway Documentation</a>.
-I am a developer. Can I help improve the plugin? =
-*  Of course! This plugin is open sourced on the GitHub. You can find the code and contribution instructions in the plugin repository <a href="https://github.com/creativehassan/woo-fopay-gateway"> FoPay Payments Gateway</a>.
+How I can verify FoPay Payments Gateway is Proper working?<br />
+*  You can enable FoPay Payments Gateway from the settings and than on checkout you can see it available for customers.<br />
+Where can I find more information on FoPay Payments Gateway? <br />
+*  You can find more information on the <a href="https://fopay.io/merchants/">FoPay Payments Gateway Documentation</a>. <br />
+I am a developer. Can I help improve the plugin? <br />
+*  Of course! This plugin is open sourced on the GitHub. You can find the code and contribution instructions in the plugin repository <a href="https://github.com/creativehassan/woo-fopay-gateway"> FoPay Payments Gateway</a>.<br />
 
 ## More Info
 
